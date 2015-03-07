@@ -1,6 +1,6 @@
 {
   "name": "biofabric",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "a client side module for generating biofabric graphs in svg using d3",
   "main": "index.js",
   "author": "max ogden",
