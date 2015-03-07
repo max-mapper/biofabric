@@ -7,5 +7,17 @@
   "license": "BSD",
   "dependencies": {
     "d3": "^3.5.5"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/biofabric.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/biofabric/issues"
+  },
+  "homepage": "https://github.com/maxogden/biofabric"
 }
