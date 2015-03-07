@@ -8,9 +8,11 @@
   "dependencies": {
     "d3": "^3.5.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "wzrd": "^1.2.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "wzrd index.js"
   },
   "repository": {
     "type": "git",
